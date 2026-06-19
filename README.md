@@ -47,7 +47,8 @@ This project analyzes employee attrition data to identify factors associated wit
 * Attrition by Age Group
 * Average Monthly Income by Age Group
 * Average Job Satisfaction by Age Group
-* Attrition by Department
+* Attrition by Department## Dashboard Preview
+![Dashboard](Attrition_Dashboard.png)
 
 ## Limitations
 
